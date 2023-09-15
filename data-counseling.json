@@ -1,0 +1,321 @@
+{
+  "consular": [
+    {
+      "name": "Pramitha Aulia, M.Psi., Psikolog",
+      "nik": "14870039-1",
+      "password": "123456",
+      "jabatan": "Kepala Bagian Pengembangan Karakter dan Kesejahteraan Mahasiswa",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/20.jpg"
+    },
+    {
+      "name": "Dilia Geugeut Pinanty, S.Psi",
+      "nik": "22960022",
+      "password": "123456",
+      "jabatan": "Staf Pengembangan Karakter dan Konseling",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/20.jpg"
+    },
+    {
+      "name": "Naura Syifa Salsabila, S.Psi",
+      "nik": "82200113",
+      "password": "123456",
+      "jabatan": "Staf Pengembangan Karakter dan Konseling",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/20.jpg"
+    },
+    {
+      "name": "Indryana Fauziah Alamsyah, S.Psi",
+      "nik": "82301363",
+      "password": "123456",
+      "jabatan": "Staf Pengembangan Karakter dan Konseling",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/20.jpg"
+    }
+  ],
+  "students": [
+    {
+      "name": "Fikri Novaldy",
+      "nim": "1103200055",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/1.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Efrizal Zidan Akbar",
+      "nim": "1103200064",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/1.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Lazzuardi Sholehuddin Nursuhud",
+      "nim": "1103200110",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/1.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Fasya Hanifah Putti",
+      "nim": "1103200149",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/20.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Hans Horison Taufiq",
+      "nim": "1103200173",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/1.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Muthie Armalia Soeriamaritsa",
+      "nim": "1103200178",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/20.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Rully Lukas Tampubolon",
+      "nim": "1103200181",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/1.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Yasser Martin",
+      "nim": "1103201259",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/1.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Topaz Tauhid",
+      "nim": "1103202020",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/1.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Dony Tri Nugroho",
+      "nim": "1103202041",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/1.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Nabil Putra Kurnia Utomo",
+      "nim": "1103202048",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/1.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Adifa Syahira",
+      "nim": "1103202067",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/20.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Edwin Malik Makarim",
+      "nim": "1103202079",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/1.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Juan Meta Sirgianto",
+      "nim": "1103202092",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/1.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Galih Karya Gemilang",
+      "nim": "1103202098",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/1.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Muhammad Alfat Imanda",
+      "nim": "1103202117",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/1.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Rizki Hidayat",
+      "nim": "1103202131",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/1.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Aldy Raja Sipahutar",
+      "nim": "1103202138",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/1.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Muhammad Rafi Raihandika",
+      "nim": "1103202151",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/1.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Fazri Ardhana",
+      "nim": "1103202187",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/1.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Abyan Hafiizh",
+      "nim": "1103202245",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/1.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Muhammad Luthfan Hasnanto",
+      "nim": "1103202269",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/1.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Ade Tirta Rahmat Hidayat",
+      "nim": "1103203212",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/1.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Loaeza Septavial",
+      "nim": "1103204003",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/1.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Nevin Zulfianda Pradana",
+      "nim": "1103204009",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/1.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Tassya Ramadhanti",
+      "nim": "1103204016",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/20.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Bagus Mahardika Santoso",
+      "nim": "1103204028",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/1.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Ivan Fernanda Prayoga",
+      "nim": "1103204035",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/1.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Resti Nugratullah Arif",
+      "nim": "1103204043",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/20.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Muhammad Arsifari Averush",
+      "nim": "1103204073",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/1.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Rizky Ramadhani Syam",
+      "nim": "1103204086",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/1.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Akbar Prastowo",
+      "nim": "1103204104",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/1.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Dewa Theisyatta Asharo Heisenda",
+      "nim": "1103204125",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/1.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Ahmad Adil Taufani",
+      "nim": "1103204144",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/1.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "A Muh Rifqy Mukhrifat",
+      "nim": "1103204158",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/1.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Arshie Fathrezza Suryatama Hendrady",
+      "nim": "1103204165",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/1.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Muhammad Fariq Taqi Pasai",
+      "nim": "1103204193",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/1.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Geril Hidayat Saputra",
+      "nim": "1103204199",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/1.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Azam Auliyaa",
+      "nim": "1103204205",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/1.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Hans Nur Ichsan",
+      "nim": "1103204224",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/1.jpg",
+      "subject": "S1 Teknik Komputer"
+    },
+    {
+      "name": "Muhammad Ismail Ibadurrahman",
+      "nim": "1103204239",
+      "password": "123456",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/pixel/1.jpg",
+      "subject": "S1 Teknik Komputer"
+    }
+  ]
+}
